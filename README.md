@@ -3,4 +3,5 @@ chord
 git commit -a
 branch_1
 
-master_test
+merge_test_master
+merge_test_develop
